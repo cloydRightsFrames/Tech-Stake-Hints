@@ -27,4 +27,11 @@ All notable changes to this repository are documented here from confirmed git hi
 
 ## 2026-02-24
 
+- Added a signed stamp artifact.
+
+## 2026-03-13
+
+- Added a PowerShell build script.
+- Added CodeQL workflow configuration.
+- Added `.gitignore`.
 - Initial repository bootstrap.
